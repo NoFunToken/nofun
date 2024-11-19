@@ -1,0 +1,50 @@
+{
+  "name": "NOFUN",
+  "version": "1.0.1",
+  "description": "NOFUN",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "NOFUN DEV",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@faker-js/faker": "^8.4.1",
+    "@openbook-dex/openbook": "^0.0.9",
+    "@solana/buffer-layout": "^4.0.1",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.3",
+    "axios": "^1.7.4",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "buffer-layout": "^1.2.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.2.6",
+    "jito-ts": "^4.1.1",
+    "node-machine-id": "^1.1.12",
+    "prompt-sync": "^4.2.0",
+    "table": "^6.8.2",
+    "tweetnacl": "^1.0.3",
+    "user-agents": "^1.1.302"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "@types/bs58": "^4.0.4",
+    "@types/figlet": "^1.5.8",
+    "@types/gradient-string": "^1.1.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.4.2",
+    "@types/node-fetch": "^2.6.11",
+    "@types/prompt-sync": "^4.2.3",
+    "@types/user-agents": "^1.0.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
