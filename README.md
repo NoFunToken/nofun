@@ -11,6 +11,8 @@
 -   🤖 AI Chatbot Integration: Powered by the nofun AI chatbot, delivering sarcastic, no-nonsense responses.
 -   🚀 Solana-Powered: High-speed, low-cost transactions for a seamless user experience.
 -   💼 Community-Centric Utility: A straightforward, efficient token designed to engage without the hype.
+-   🚀 Custom CA – Set both the start and end of your contract address for full customization.
+-   🛡️ Anti-Snipe Launcher – Drop on Pump.fun without getting sniped, ensuring a fair launch for devs and buyers.
 -   📦 Just works!
 
 ## 🎯 Use Cases
